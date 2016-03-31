@@ -1,8 +1,8 @@
 
 public class sample {
 
-	public sample() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[]args){
+		
 	}
 
 }
